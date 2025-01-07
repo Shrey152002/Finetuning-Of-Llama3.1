@@ -144,11 +144,7 @@ interface.launch()
 | 18B        | LoRA          | 16GB       | 28h           | 98%         |
 | 18B        | QLoRA         | 8GB        | 32h           | 95%         |
 
-## Contributing
-We welcome contributions! Please see our [contributing guidelines](CONTRIBUTING.md) for more information.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - Unsloth Team for optimization tools
